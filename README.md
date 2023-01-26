@@ -3,9 +3,9 @@
 A board game which combines the rules of Snakes and Ladders with Monopoly.
 
 ## Contributors:
-@AhmedAbdelaal2001 <b>
-@MarwanMohamed02 <b>
-@MarlyMofeed <b>
-@ZiadAbdelwareth
+- @AhmedAbdelaal2001
+- @MarwanMohamed02
+- @MarlyMofeed
+- @ZiadAbdelwareth
 
 
